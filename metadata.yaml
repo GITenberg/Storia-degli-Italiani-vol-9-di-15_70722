@@ -1,0 +1,31 @@
+_repo: Storia-degli-Italiani-vol-9-di-15_70722
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cantù, Cesare
+    alias: Cantu, Cesare
+    birthdate: 1804
+    deathdate: 1895
+    gutenberg_agent_id: '2238'
+    url: http://www.gutenberg.org/2009/agents/2238
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Cesare_Cantù
+    - https://it.wikipedia.org/wiki/Cesare_Cant%C3%B9
+description: ''
+gutenberg_issued: '2023-05-08'
+identifiers:
+  gutenberg: '70722'
+language: it
+pgterms:marc905: 20140924162627cant
+pgterms:marc906: '1874'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aItaly :$bUnione Tipograficp/o-Editrice, $c1874, pubdate 1877.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Storia degli Italiani, vol. 9 (di 15)
+url: http://www.gutenberg.org/ebooks/70722
